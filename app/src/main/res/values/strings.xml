@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UserManagement</string>
+
+    <string name="add_person">Add Person</string>
+
+    <!--Gender-->
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="others">Others</string>
+
+</resources>
