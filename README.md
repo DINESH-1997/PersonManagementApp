@@ -14,7 +14,7 @@ This app is designed using MVVM Clean Architecture and leverages modern Android 
 4. **Concurrency**: Employs Coroutines for asynchronous operations.
 5. **Database**:
       * Stores the list of persons in a Room database
-      * 2.Ensures data persistence, allowing offline access to the list of persons.
+      * Ensures data persistence, allowing offline access to the list of persons.
 6. **API Integration:**
       * Uses the CrudCrud API for managing data.
       * After a successful POST request, the new person is added to the local Room database.
